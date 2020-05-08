@@ -61,7 +61,7 @@ Navigate to the folder where you checked out the project to (in your console). N
 Use the `--playlist playlistURL` option to download a Spotify playlist. To get the URL for a playlist, open the playlist you want to download and click on the three dots towards the top. Go to 'Share' -> 'Copy Playlist link' and paste it directly into the terminal.
 
 ## Issues
-If you find any issues, please file a report ![here](https://github.com/pranav-ashokk/spotify-to-mp3/issues).
+If you find any issues, please file a report [here](https://github.com/pranav-ashokk/spotify-to-mp3/issues).
 ## Packages
 Third party packages/libraries:
 * jsoup

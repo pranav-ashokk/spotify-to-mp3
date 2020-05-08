@@ -1,12 +1,11 @@
----
+***
 **NOTE**
 
-This software is still being worked on and currently has limited capability. 
-The following limitations will be addressed in the next release:
+This software is still being worked on and currently has limited capability. The following limitations will be addressed in the next release:
 * Only runs on Linux (Any flavor)
 * It can only perform downloads for up to 30 songs in a playlist. 
   If there are more than 30 songs in the playlist, it will download the first 30 songs.
----
+***
 
 # Spotify MP3 Downloader
 ## Overview

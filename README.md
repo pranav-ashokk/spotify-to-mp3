@@ -35,6 +35,7 @@ Then, simply execute the script to automatically install the dependencies:
 If you have any issues with the automatic installation or prefer to install them manually, then you can use the download links below.
 * #### FFmpeg
   https://www.ffmpeg.org/download.html
+  
   Or, download FFmpeg in the terminal with this command:
 
   `sudo apt install ffmpeg`

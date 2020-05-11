@@ -42,8 +42,7 @@ for arg in "$@"
             # Download each song as MP3
              for video_id in "${YT_URLS[@]}";
              do
-                #printf "$video_id"
-                node youtube_mp3.js "$HOME/Music" $video_id
+                node youtube_mp3.js "$HOME/Documents/test" $video_id
              done
         fi
 
